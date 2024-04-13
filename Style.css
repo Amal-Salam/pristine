@@ -61,7 +61,7 @@ body {
 
 .image1 {
     width: 250px;
-    height: 320px;
+    height: auto;
     float: left;
     border-radius: 10px 10px 56px 10px;
 
